@@ -1,4 +1,4 @@
-package com.rzrtc.paasbuilder
+package cn.tosee.rtcbuilder
 
 import org.junit.Test
 

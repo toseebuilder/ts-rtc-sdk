@@ -1,2 +1,2 @@
-# rz-paas-sdk
-rzrtc paas sdk 
+# ts-rtc-sdk
+ts rtc sdk

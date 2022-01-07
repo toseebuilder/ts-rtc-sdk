@@ -1,2 +1,2 @@
-include ':rzpaas'
-rootProject.name = "rz-paas-sdk"
+include ':tsrtc'
+rootProject.name = "ts-rtc-sdk"
